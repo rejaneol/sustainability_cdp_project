@@ -26,7 +26,7 @@ scikit-learn==0.22
 
 This project follows **CRISP-DM** phases.  
 
-![image info](./pictures/crispdm.png)
+![CRISP-DM](pictures/crispdm.png)
 
 In the _Business Understanding_ phase, the structure of the questionnaires is grabed and saved as Excel files.
 
