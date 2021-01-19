@@ -28,7 +28,7 @@ This project follows **CRISP-DM** phases.
 
 ![CRISP-DM](pictures/crispdm.png)
 
-In the _Business Understanding_ phase, the structure of the questionnaires is grabed and saved as Excel files.
+In the _Business Understanding_ phase, the structure of the questionnaires is grabed and saved as Excel files in structure_survey directory.
 
 In the _Data Understanding_ phase, some research questions were set and answered:
 1. Is there an increase in the survey engagement by country over the years? More cities? More organizations?
