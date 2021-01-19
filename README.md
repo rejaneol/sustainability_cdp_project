@@ -1,7 +1,7 @@
 # sustainability_cdp_project
+# Companies and Cities Driving Together Towards a Sustainable World
 
-## Companies and Cities Driving Together Towards a Sustainable World
-
+## Summary
 ### Motivation: 
 Sustainability is a theme that all of us should reflect about. It's all about the planet we live and the future we want. The best way to do it is take our conclusions based on data. The reference for this project is the Kaggle Competition [“CDP - Unlocking Climate Solutions City-Business Collaboration for a Sustainable Future”](https://www.kaggle.com/c/cdp-unlocking-climate-solutions/overview)  
 
@@ -26,6 +26,8 @@ scikit-learn==0.22
 
 This project follows **CRISP-DM** phases.  
 
+![image info](./pictures/crispdm.png)
+
 In the _Business Understanding_ phase, the structure of the questionnaires is grabed and saved as Excel files.
 
 In the _Data Understanding_ phase, some research questions were set and answered:
@@ -43,8 +45,10 @@ The main findings were:
 * The collaboration within the companies' value chain is stronger with their suppliers and customers.
 * The level of engagement needed to classify an organization as leadership (and its inclusion in A-list) can be predicted by how much it responds the previous year questionnaire.
 
+## Acknowledgments
 
+Kaggle Competition [“CDP - Unlocking Climate Solutions City-Business Collaboration for a Sustainable Future”](https://www.kaggle.com/c/cdp-unlocking-climate-solutions/overview)
 
-####  This project was developed as part of the requirements for Data Scientist Udacity Nanodegree. 
+This project was developed as part of the requirements for Data Scientist Udacity Nanodegree. 
 
 
